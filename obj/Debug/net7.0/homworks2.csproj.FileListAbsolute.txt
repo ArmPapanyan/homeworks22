@@ -1,0 +1,15 @@
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\homworks2.csproj.AssemblyReference.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\homworks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\homworks2.AssemblyInfoInputs.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\homworks2.AssemblyInfo.cs
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\homworks2.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\bin\Debug\net7.0\homworks2.exe
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\bin\Debug\net7.0\homworks2.deps.json
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\bin\Debug\net7.0\homworks2.runtimeconfig.json
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\bin\Debug\net7.0\homworks2.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\bin\Debug\net7.0\homworks2.pdb
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\homworks2.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\refint\homworks2.dll
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\homworks2.pdb
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\homworks2.genruntimeconfig.cache
+C:\Users\Victus\Desktop\C#lesson\homeworks\homworks2\obj\Debug\net7.0\ref\homworks2.dll
